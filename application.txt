@@ -1,0 +1,19 @@
+## canal中定义的ip地址
+canal.config.hostName=localhost
+
+## canal中定义的端口
+canal.config.port=11111
+
+## 实例名字
+canal.config.distination=example
+
+##canal.config.userName;
+
+##canal.config.passWord;
+
+## 每次从canal中get 多少条数据
+canal.config.batchSize=1000
+
+## 每次get 间隔多长时间单位毫秒
+canal.config.sleepTime=1000
+
